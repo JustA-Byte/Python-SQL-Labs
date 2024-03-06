@@ -45,6 +45,12 @@ Following that I'll then use the with statement again which will rewrite the ori
 
 ![image](https://github.com/JustA-Byte/Python-SQL-Labs/assets/161458321/367e5aa1-63b4-4560-8b3e-9554a7141050)
 
+## Summary
+In summary, the combined code above allows me to import a file, read file data, Change the data type,loop through variables and remove relevant ip addresses, Convert data again and write to a file overriding the existing data. In doing this it has automated a process which will have taken a while to go through the ip addresses manually and remove one's no longer needed on the access list through the use of iteration in for loops.
+
+The code in its entirety can be seen below:
+![image](https://github.com/JustA-Byte/Python-SQL-Labs/assets/161458321/d7a52373-be77-41f7-965e-eb98320dbb78)
+![image](https://github.com/JustA-Byte/Python-SQL-Labs/assets/161458321/6826c609-b036-4a64-8fbb-3511de524f80)
 
 
 
