@@ -16,6 +16,7 @@ Throughout these Python & SQL Labs, I have performed a number of exercises which
 - Python
 - SQL
 - Linux command line
+- Junyper
 
 ### Exercises
 - <a href="https://github.com/JustA-Byte/Python-SQL-Labs/blob/main/Creating%20an%20algorithm%20for%20file%20updates%20in%20Python.md"> Creating an algorithm for file updates in Python </a>
