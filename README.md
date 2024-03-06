@@ -18,5 +18,5 @@ Throughout these Python & SQL Labs, I have performed a number of exercises which
 - Linux command line
 
 ### Exercises
-- <a href=""> Creating an algorithm for file updates in Python </a>
+- <a href="https://github.com/JustA-Byte/Python-SQL-Labs/blob/main/Creating%20an%20algorithm%20for%20file%20updates%20in%20Python.md"> Creating an algorithm for file updates in Python </a>
 - <a href=""> Applying filters to SQL queries </a>
