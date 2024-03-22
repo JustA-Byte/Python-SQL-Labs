@@ -11,7 +11,7 @@ To open the file containing the allow list I use the following command:
 
 Assigning the file to a variable allows me to call it later in the code.
 
-I use the with keyword to handle the ```open()``` function, calling the ```import_file``` variable I assigned earlier as the first parameter and ```“r”``` as the second parameter; I then pass this to ```file``` to deal with the contents in the imported file in the following steps.
+I use the ```with``` keyword to handle the ```open()``` function, calling the ```import_file``` variable I assigned earlier as the first parameter and ```“r”``` as the second parameter; I then pass this to ```file``` to deal with the contents in the imported file in the following steps.
 
 ## Read the file contents
 Following on; I assign a new variable inside the ```open()``` function called ```ip_addresses``` and store the read contents of the imported file inside.
